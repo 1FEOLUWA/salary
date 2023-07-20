@@ -1,5 +1,5 @@
 # salary
-A small project
+A small ML project
 
 this is a small multiple variable regresion project 
 there are 3 important files here :
